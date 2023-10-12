@@ -1,0 +1,4 @@
+services:
+  cobol:
+    build: .
+    container_name: cobol
